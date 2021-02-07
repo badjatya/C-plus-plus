@@ -1,4 +1,4 @@
-/* Take two user inputs and check id denominator is valid or not if valid than find the dividend  */
+/* Take two user inputs and check id denominator is valid or not if valid then find the dividend */
 
 #include <iostream>
 using namespace std;
