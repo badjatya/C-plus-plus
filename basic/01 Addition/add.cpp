@@ -1,3 +1,5 @@
+/* find area of two numbers */
+
 #include <iostream>
 using namespace std;
 
