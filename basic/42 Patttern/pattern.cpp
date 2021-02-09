@@ -1,7 +1,7 @@
 /* TODO: Printing a pattern using nested for loops  */
 
 /*
-Pattern to be Printed: 
+Pattern to be Printed: / .,ml .,kml
 * 
 * * 
 * * * 
