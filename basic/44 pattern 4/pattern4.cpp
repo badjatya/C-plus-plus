@@ -20,8 +20,7 @@ int main()
             if (i > j)
                 cout << " ";
             else
-                cout << "*"
-                     << " ";
+                cout << "*";
         }
         cout << endl;
     }
